@@ -1,0 +1,3 @@
+This program's purpose is to apply image modification filters, such as the multiple effect and the subtraction effect, or stitch multipule images together. This was done by modifying the pixel data.  Before running the program ensure that the output folder is empty. After running the program, the modified images should be located in the output folder. You can compare them to the images in the input folder. The checks that appear in the command line are ensuring that the pixel data for the before and after of each image are identical.
+
+Go from source > main.cpp then run the program
