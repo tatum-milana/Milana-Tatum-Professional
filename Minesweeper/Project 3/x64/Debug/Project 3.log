@@ -1,0 +1,3 @@
+﻿  Board.cpp
+C:\Users\milan\OneDrive\Documents\CODE\Project 3\Project 3\Board.cpp(135,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project 3.vcxproj -> C:\Users\milan\OneDrive\Documents\CODE\Project 3\x64\Debug\Project 3.exe
